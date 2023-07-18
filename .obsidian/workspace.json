@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "78d9cf610b255ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82508db12277222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94a4242f2325d0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5af8bc1406b313e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42122ad9ce7d5a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a2eb0ec8350e6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0126b896457ab6b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa04859698da1356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7b5d43e678d73db",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae48911a5831096f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25955108cc27c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53d1a69f3a15447",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0634feb81544f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63f917853e89cc4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64660ed436a778b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "c5a2eb0ec8350e6e",
+  "lastOpenFiles": [
+    "Computer Science/CA.md",
+    "Computer Science/Computer Systems",
+    "Untitled.md",
+    "Computer Science/Data Representation",
+    "Computer Science/Programming",
+    "Computer Science",
+    "Literature",
+    "Langauge",
+    "Science",
+    "Mathematics",
+    "Game Development - Mathematics.md"
+  ]
+}
